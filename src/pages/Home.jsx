@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { toast } from 'react-toastify';
 import { getContacts, deleteContact } from '../Services/AllApis';
-import AddContact from '../Components/Addcontact';
+import AddContact from '../Components/AddContact'
 import ContactList from '../Components/ContactList';
 
 function Home() {
