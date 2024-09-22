@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import './bootstrap.min.css';
 import 'react-toastify/dist/ReactToastify.css';
-import Home from './Pages/Home';
+import Home from './pages/Home'
 import Landing from './pages/Landing';
 import Header from './Components/Header';
 import { Routes, Route } from 'react-router-dom';
